@@ -1,0 +1,5 @@
+{
+  "name": "Codebase Explainer",
+  "description": "An AI-powered tool to analyze and chat with GitHub repositories using Gemini.",
+  "requestFramePermissions": []
+}
